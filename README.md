@@ -1,4 +1,4 @@
-# test_devcontainer-r
+# my template r - test 
 
 A [workflowr][] project.
 
