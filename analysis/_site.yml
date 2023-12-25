@@ -1,7 +1,7 @@
-name: test_devcontainer-r
+name: my template r - test-r
 output_dir: ../docs
 navbar:
-  title: test_devcontainer-r
+  title: my template r - test-r
   left:
   - text: Home
     href: index.html
@@ -12,7 +12,7 @@ navbar:
   right:
   - icon: fab fa-github
     text: Source code
-    href: https://github.com/mangost/my_template_r
+    href: https://github.com/mangost/my_template_r_test
 output:
   workflowr::wflow_html:
     toc: yes
