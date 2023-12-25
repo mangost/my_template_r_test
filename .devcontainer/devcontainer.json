@@ -19,7 +19,7 @@
 		// cache renv in the same location
 		"ghcr.io/rocker-org/devcontainer-features/renv-cache:latest": {},
 		// make r-history persistent
-		"ghcr.io/rocker-org/devcontainer-features/r-history:0": {},
+		"ghcr.io/rocker-org/devcontainer-features/r-history:0": {}
 	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.

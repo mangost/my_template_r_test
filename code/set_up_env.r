@@ -11,4 +11,4 @@ plot(1:10)  # test httpgd
 renv::restore()
 
 # use this command to snapshot r packages
-# renv::snapshot()
+# renv::snapshot() # nolint: commented_code_linter.
