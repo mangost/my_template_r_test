@@ -3,9 +3,9 @@ library(pak)
 library(Seurat)
 library(workflowr)
 
-library(httpgd)
-# test httpgd
-plot(1:10)
+library(languageserver)  # for hint and lint, very useful
+library(httpgd)  # for resizable plot window
+plot(1:10)  # test httpgd
 
 # use this command to restore r packages
 renv::restore()
